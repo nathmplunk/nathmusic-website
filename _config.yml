@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+- name: Hugo setup
+  uses: peaceiris/actions-hugo@v2.4.13
